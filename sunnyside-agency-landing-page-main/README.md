@@ -4,15 +4,15 @@ Esta é uma solução para o projeto [Sunnyside agency landing page challenge on
 
 ## Tabela de Conteúdo
 
--  [Visão Geral](#overview)
-   -  [O Desafio](#the-challenge)
+-  [Visão Geral](#visão-geral)
+   -  [O Desafio](#o-desafio)
    -  [Screenshot](#screenshot)
    -  [Links](#links)
--  [Processo de Criação](#my-process)
-   -  [Criado com](#built-with)
-   -  [O que eu aprendi](#what-i-learned)
-   -  [Projetos futuros](#continued-development)
--  [Autor](#author)
+-  [Processo de Criação](#processo-de-criação)
+   -  [Criado com](#criado-com)
+   -  [O que eu aprendi](#o-que-eu-aprendi)
+   -  [Projetos futuros](#projetos-futuros)
+-  [Autor](#autor)
 
 ## Visão Geral
 
@@ -47,9 +47,9 @@ Neste projeto eu pude aprimorar um pouco mais minhas habilidades com CSS Grid e 
 
 ### Projetos Futuros
 
-Use this section to outline areas that you want to continue focusing on in future projects. These could be concepts you're still not completely comfortable with or techniques you found useful that you want to refine and perfect.
+Eu pretendo continuar criando mais alguns projetos utilizando apenas HTML, CSS e Javascript para formar uma base mais sólida, e então passar a utilizar o React.
 
 ## Autor
 
--  Website - [David Moreira](https://davidmoreira2m.github.io/portfolio/)
--  Linkedin - [Linkedin David Moreira](https://www.linkedin.com/in/david-moreira-59580893/)
+-  Website - [Portlifólio](https://davidmoreira2m.github.io/portfolio/)
+-  Linkedin - [David Moreira](https://www.linkedin.com/in/david-moreira-59580893/)
