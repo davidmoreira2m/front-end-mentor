@@ -20,8 +20,8 @@ Esta é uma solução para o projeto [Sunnyside agency landing page challenge on
 
 O usuário deve:
 
--  Visualizar um layout otimizado para o diversos tamanhos de tela.
--  Visualizar efeitos Hover para todos o elementos interativos.
+-  Visualizar um layout otimizado para diversos tamanhos de tela.
+-  Visualizar efeitos para todos os elementos interativos.
 
 ### Screenshot
 
