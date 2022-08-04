@@ -47,9 +47,9 @@ Neste projeto eu pude aprimorar um pouco mais minhas habilidades com CSS Grid e 
 
 ### Projetos Futuros
 
-Eu pretendo continuar criando mais alguns projetos utilizando apenas HTML, CSS e Javascript para formar uma base mais sólida, e então passar a utilizar o React.
+Eu pretendo continuar criando mais alguns projetos utilizando apenas HTML, CSS e Javascript para formar uma base mais sólida, e então começar minha caminhada com os frameworks, de inínicio predendo estudar o React.
 
 ## Autor
 
--  Website - [Portlifólio](https://davidmoreira2m.github.io/portfolio/)
+-  Website - [Portfólio](https://davidmoreira2m.github.io/portfolio/)
 -  Linkedin - [David Moreira](https://www.linkedin.com/in/david-moreira-59580893/)
