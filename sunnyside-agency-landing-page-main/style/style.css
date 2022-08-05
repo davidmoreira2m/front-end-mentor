@@ -248,11 +248,11 @@ header::after {
 /* ------------PROJECTS------------- */
 .projects {
    display: grid;
-   grid-template-columns: 1fr 1fr 1fr 1fr;
+   grid-template-columns: repeat(4, 1fr);
 }
 /* -------------CONTACT-------------- */
 .contact {
-   background-color: hsl(168, 29%, 57%);
+   background-color: hsl(168, 39%, 68%);
    padding-top: 80px;
 }
 
@@ -296,5 +296,5 @@ header::after {
    color: #2c7566;
 }
 .attribution a {
-   color: white;
+   color: #0b322a;
 }
